@@ -1,0 +1,35 @@
+
+.fa-square-facebook{
+    font-size: 50px;
+    color: blue;
+}
+.fa-square-whatsapp{
+    font-size: 50px;
+    color: rgb(65, 218, 77);
+
+}
+.fa-square-twitter{
+    font-size: 50px;
+    color: rgb(110, 186, 216);
+}
+.fa-square-instagram{
+    font-size: 50px;
+}
+a {
+    text-decoration: none;
+  }
+  img{
+    transition: all 0.3s;
+  }
+img:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+  }
+  i{
+    transition: all 0.3s;
+  }
+i:hover{
+    transform: scale(1.15);
+    cursor: pointer;
+  }
+  
